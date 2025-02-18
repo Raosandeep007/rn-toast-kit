@@ -1,7 +1,15 @@
 {
-  "name": "rn-expo-toast",
+  "name": "rn-toast-kit",
   "version": "0.0.1",
   "description": "A beautiful, animated toast component for React Native with haptic feedback",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raosandeep007/rn-toast-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raosandeep007/rn-toast-kit/issues"
+  },
+  "homepage": "https://github.com/Raosandeep007/rn-toast-kit#readme",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

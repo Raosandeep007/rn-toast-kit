@@ -16,7 +16,7 @@ A beautiful, animated toast component for React Native with haptic feedback.
 ## Installation
 
 ```bash
-npm install rn-expo-toast
+npm install rn-toast-kit
 ```
 
 ### Dependencies
@@ -32,7 +32,7 @@ npm install react-native-reanimated react-native-gesture-handler expo-blur expo-
 1. Wrap your app with the ToastProvider:
 
 ```jsx
-import { ToastProvider } from "rn-expo-toast";
+import { ToastProvider } from "rn-toast-kit";
 
 export default function App() {
   return (
@@ -46,7 +46,7 @@ export default function App() {
 2. Use the Toast methods anywhere in your app:
 
 ```jsx
-import { Toast } from "rn-expo-toast";
+import { Toast } from "rn-toast-kit";
 
 // Success toast
 Toast.success("Operation completed successfully!");

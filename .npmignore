@@ -1,0 +1,7 @@
+src/
+node_modules/
+dist/*.test.*
+dist/*.spec.*
+dist/__tests__/
+dist/**/*.map
+dist/**/*.tsx
